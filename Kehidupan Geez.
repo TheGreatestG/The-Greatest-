@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kehidupan Geez Si Anak TI</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #2c3e50;
+            color: #ecf0f1;
+            padding: 40px;
+            line-height: 1.8;
+        }
+        h1 {
+            color: #f39c12;
+            text-align: center;
+            font-size: 3em;
+        }
+        p {
+            font-size: 1.2em;
+            text-align: justify;
+            margin: 20px 0;
+        }
+        .highlight {
+            color: #e74c3c;
+            font-weight: bold;
+        }
+        .intro {
+            font-size: 1.5em;
+            text-align: center;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Kehidupan Geez Si Anak TI</h1>
+    <p class="intro">Welcome to my side, Fellas.</p>
+    <p>
+        Kehidupan sebagai kupu-kupu, kalau ga main ya pulang, biasa nya gua kalau ga pulang itu main sampe malem bareng temen temen gua. Kita hangout, drunk, smoking till die, godain cewe-cewe straight (bercanda) dan masih banyak lagi. Tapi aneh-nya ketika gua sampe dirumah tetep aja ngerasa sepi, makanya gua berusaha bikin diri gua sibuk dengan hal yang gua suka. Semales-malesnya lu jangan pernah bolos matkul ya bro.
+    </p>
+    <p>
+        Jarak dari rumah gua ke kampus sekitar 40 menitan. Nah biasa nya di jalan gua suka dengerin musik karena ya menurut gua musik itu berarti di kehidupan gua, kalau musik yang di-play ketika gua di jalan itu enak mood gua bisa lebih bagus ketika sampe di kampus walaupun nanti ada aja yang bikin kesel karena kadang ada aja manusia kaya kontol dan gua butuh persiapan sebelum menemui manusia itu tapi tenang itu cuma kebiasaan lama yang pastinya udah gua tinggalin.
+    </p>
+    <p>
+        Intinya ini lah kehidupan Geez si anak TI. Kita jalanin aja, apapun yang datang, biar kita nikmatin setiap prosesnya!
+    </p>
+</body>
+</html>
